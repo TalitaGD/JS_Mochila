@@ -1,2 +1,2 @@
-# Alura-armazenando-na-web
+# Curso: Alura Web
 Curso: JS Mochila (projeto)
